@@ -1,8 +1,8 @@
 package br.sesi.gk.poo.cabeca;
 
 public class Cabeca {
-    Olho olho;
-    Orelha orelha;
-    Nariz nariz;
-    Boca boca;
+    public Olho olho;
+    public Orelha orelha;
+    public Nariz nariz;
+    public Boca boca;
 }
