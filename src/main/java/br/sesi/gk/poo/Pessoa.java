@@ -1,9 +1,11 @@
 package br.sesi.gk.poo;
 
-public class Pessoa {
-    float peso;
-    float altura;
-    int idade;
-    String nome;
+import br.sesi.gk.poo.cabeca.Cabeca;
+import br.sesi.gk.poo.inferior.MembrosInferiores;
+import br.sesi.gk.poo.tronco.Tronco;
 
+public class Pessoa {
+    Cabeca cabeca;
+    Tronco tronco;
+    MembrosInferiores inferior;
 }
