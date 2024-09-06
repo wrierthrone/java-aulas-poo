@@ -1,4 +1,4 @@
-package br.sesi.gk.modelo;
+package br.sesi.gk.poo;
 
 public class Pessoa {
     float peso;
